@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinBabySteps</string>
+    <string name="format_age">Edad: %1$d años</string>
+    <string name="title_owner_dialog">Dueño</string>
+    <string name="format_age_human">Años humanos: %1$s</string>
+
+    <string name="button_filter_age">Filtrar por edad</string>
+    <string name="button_filter_owner">Filtrar por dueño</string>
+    <string name="button_filter_owner_age">Filtrar por edad y dueño</string>
+</resources>
